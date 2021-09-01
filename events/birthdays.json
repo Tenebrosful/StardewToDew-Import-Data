@@ -2,6 +2,19 @@
     "DataFormatVersion": "1.1.0",
     "Items": [
         {
+            "Id": -93064089309124542,
+            "Text": "= Évènements Majeurs =",
+            "IsBold": true,
+            "IsDone": false,
+            "IsHeader": true,
+            "IsRepeating": false,
+            "HideInOverlay": false,
+            "FarmWeatherVisiblity": "All",
+            "IslandWeatherVisiblity": "None",
+            "DayOfWeekVisibility": "All",
+            "IsVisibleToday": true
+        },
+        {
             "Id": -93143089897379826,
             "Text": "Kent (Oeufs)",
             "IsBold": false,
