@@ -1,0 +1,57 @@
+{
+    "DataFormatVersion": "1.1.0",
+    "Items": [
+        {
+            "Id": -93064089309124542,
+            "Text": "= Évènements Majeurs =",
+            "IsBold": true,
+            "IsDone": false,
+            "IsHeader": true,
+            "IsRepeating": false,
+            "HideInOverlay": false,
+            "FarmWeatherVisiblity": "All",
+            "IslandWeatherVisiblity": "None",
+            "DayOfWeekVisibility": "All",
+            "IsVisibleToday": true
+        },
+        {
+            "Id": -93071286197917633,
+            "Text": "Préparer la Fête Hawaïenne (dans 3 jours)",
+            "IsBold": false,
+            "IsDone": false,
+            "IsHeader": false,
+            "IsRepeating": true,
+            "HideInOverlay": false,
+            "FarmWeatherVisiblity": "All",
+            "IslandWeatherVisiblity": "None",
+            "DayOfWeekVisibility": -56702,
+            "IsVisibleToday": false
+        },
+        {
+            "Id": -93067234768689088,
+            "Text": "Préparer le Grand Festival de Stardew Valley (dans 3 jours)",
+            "IsBold": false,
+            "IsDone": false,
+            "IsHeader": false,
+            "IsRepeating": true,
+            "HideInOverlay": false,
+            "FarmWeatherVisiblity": "All",
+            "IslandWeatherVisiblity": "None",
+            "DayOfWeekVisibility": -56128,
+            "IsVisibleToday": false
+        },
+        {
+            "Id": -93066206610560959,
+            "Text": "Préparer la Fête de l'Étoile Hivernale (dans 3 jours)",
+            "IsBold": false,
+            "IsDone": false,
+            "IsHeader": false,
+            "IsRepeating": true,
+            "HideInOverlay": false,
+            "FarmWeatherVisiblity": "All",
+            "IslandWeatherVisiblity": "None",
+            "DayOfWeekVisibility": -30590,
+            "IsVisibleToday": false
+        }
+    ]
+}
