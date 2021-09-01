@@ -2,19 +2,6 @@
     "DataFormatVersion": "1.1.0",
     "Items": [
         {
-            "Id": -93163504464140283,
-            "Text": "Anniversaire",
-            "IsBold": true,
-            "IsDone": false,
-            "IsHeader": true,
-            "IsRepeating": false,
-            "HideInOverlay": false,
-            "FarmWeatherVisiblity": "All",
-            "IslandWeatherVisiblity": "None",
-            "DayOfWeekVisibility": -61039,
-            "IsVisibleToday": false
-        },
-        {
             "Id": -93143089897379826,
             "Text": "Kent (Oeufs)",
             "IsBold": false,
@@ -38,19 +25,6 @@
             "FarmWeatherVisiblity": "All",
             "IslandWeatherVisiblity": "None",
             "DayOfWeekVisibility": -61055,
-            "IsVisibleToday": false
-        },
-        {
-            "Id": -93117131400255455,
-            "Text": "Anniversaire",
-            "IsBold": true,
-            "IsDone": false,
-            "IsHeader": true,
-            "IsRepeating": false,
-            "HideInOverlay": false,
-            "FarmWeatherVisiblity": "All",
-            "IslandWeatherVisiblity": "None",
-            "DayOfWeekVisibility": -56951,
             "IsVisibleToday": false
         },
         {
@@ -80,19 +54,6 @@
             "IsVisibleToday": false
         },
         {
-            "Id": -93111605824165854,
-            "Text": "Anniversaire",
-            "IsBold": true,
-            "IsDone": false,
-            "IsHeader": true,
-            "IsRepeating": false,
-            "HideInOverlay": false,
-            "FarmWeatherVisiblity": "All",
-            "IslandWeatherVisiblity": "None",
-            "DayOfWeekVisibility": -48688,
-            "IsVisibleToday": false
-        },
-        {
             "Id": -93136273851389934,
             "Text": "Pam (Panais, Bière, Fruits, Laits, Jonquille)",
             "IsBold": false,
@@ -116,19 +77,6 @@
             "FarmWeatherVisiblity": "All",
             "IslandWeatherVisiblity": "None",
             "DayOfWeekVisibility": -48704,
-            "IsVisibleToday": false
-        },
-        {
-            "Id": -93110706548611037,
-            "Text": "Anniversaire",
-            "IsBold": true,
-            "IsDone": false,
-            "IsHeader": true,
-            "IsRepeating": false,
-            "HideInOverlay": false,
-            "FarmWeatherVisiblity": "All",
-            "IslandWeatherVisiblity": "None",
-            "DayOfWeekVisibility": -32288,
             "IsVisibleToday": false
         },
         {
@@ -158,19 +106,6 @@
             "IsVisibleToday": false
         },
         {
-            "Id": -93109963603154908,
-            "Text": "Anniversaire",
-            "IsBold": true,
-            "IsDone": false,
-            "IsHeader": true,
-            "IsRepeating": false,
-            "HideInOverlay": false,
-            "FarmWeatherVisiblity": "All",
-            "IslandWeatherVisiblity": "None",
-            "DayOfWeekVisibility": -60784,
-            "IsVisibleToday": false
-        },
-        {
             "Id": -93132203413575658,
             "Text": "Jas (Jonquille, Coco)",
             "IsBold": false,
@@ -182,19 +117,6 @@
             "IslandWeatherVisiblity": "None",
             "DayOfWeekVisibility": -60784,
             "IsVisibleToday": false
-        },
-        {
-            "Id": -93109221764995035,
-            "Text": "Anniversaire",
-            "IsBold": true,
-            "IsDone": false,
-            "IsHeader": true,
-            "IsRepeating": false,
-            "HideInOverlay": false,
-            "FarmWeatherVisiblity": "All",
-            "IslandWeatherVisiblity": "None",
-            "DayOfWeekVisibility": -56630,
-            "IsVisibleToday": true
         },
         {
             "Id": -93131505766602729,
@@ -233,19 +155,6 @@
             "FarmWeatherVisiblity": "All",
             "IslandWeatherVisiblity": "None",
             "DayOfWeekVisibility": -56640,
-            "IsVisibleToday": true
-        },
-        {
-            "Id": -93108093497219034,
-            "Text": "Anniversaire",
-            "IsBold": true,
-            "IsDone": false,
-            "IsHeader": true,
-            "IsRepeating": false,
-            "HideInOverlay": false,
-            "FarmWeatherVisiblity": "All",
-            "IslandWeatherVisiblity": "None",
-            "DayOfWeekVisibility": -48472,
             "IsVisibleToday": false
         },
         {
@@ -272,19 +181,6 @@
             "FarmWeatherVisiblity": "All",
             "IslandWeatherVisiblity": "None",
             "DayOfWeekVisibility": -48480,
-            "IsVisibleToday": false
-        },
-        {
-            "Id": -93107656735954905,
-            "Text": "Anniversaire",
-            "IsBold": true,
-            "IsDone": false,
-            "IsHeader": true,
-            "IsRepeating": false,
-            "HideInOverlay": false,
-            "FarmWeatherVisiblity": "All",
-            "IslandWeatherVisiblity": "None",
-            "DayOfWeekVisibility": -32086,
             "IsVisibleToday": false
         },
         {
@@ -327,19 +223,6 @@
             "IsVisibleToday": false
         },
         {
-            "Id": -93106502178281432,
-            "Text": "Anniversaire",
-            "IsBold": true,
-            "IsDone": false,
-            "IsHeader": true,
-            "IsRepeating": false,
-            "HideInOverlay": false,
-            "FarmWeatherVisiblity": "All",
-            "IslandWeatherVisiblity": "None",
-            "DayOfWeekVisibility": -60252,
-            "IsVisibleToday": false
-        },
-        {
             "Id": -93122504320456674,
             "Text": "Penny (Diamant, Émeraude, Melon, Pavot, Laits, Pissenlit, Poireau)",
             "IsBold": false,
@@ -366,19 +249,6 @@
             "IsVisibleToday": false
         },
         {
-            "Id": -93105980960511959,
-            "Text": "Anniversaire",
-            "IsBold": true,
-            "IsDone": false,
-            "IsHeader": true,
-            "IsRepeating": false,
-            "HideInOverlay": false,
-            "FarmWeatherVisiblity": "All",
-            "IslandWeatherVisiblity": "None",
-            "DayOfWeekVisibility": -56112,
-            "IsVisibleToday": false
-        },
-        {
             "Id": -93121152076847072,
             "Text": "Jodi (Diamant, Fruits, Laits, Oeufs)",
             "IsBold": false,
@@ -402,19 +272,6 @@
             "FarmWeatherVisiblity": "All",
             "IslandWeatherVisiblity": "None",
             "DayOfWeekVisibility": -56127,
-            "IsVisibleToday": false
-        },
-        {
-            "Id": -93103760781187029,
-            "Text": "Anniversaire",
-            "IsBold": true,
-            "IsDone": false,
-            "IsHeader": true,
-            "IsRepeating": false,
-            "HideInOverlay": false,
-            "FarmWeatherVisiblity": "All",
-            "IslandWeatherVisiblity": "None",
-            "DayOfWeekVisibility": -47981,
             "IsVisibleToday": false
         },
         {
@@ -457,19 +314,6 @@
             "IsVisibleToday": false
         },
         {
-            "Id": -93101058793773009,
-            "Text": "Anniversaire",
-            "IsBold": true,
-            "IsDone": false,
-            "IsHeader": true,
-            "IsRepeating": false,
-            "HideInOverlay": false,
-            "FarmWeatherVisiblity": "All",
-            "IslandWeatherVisiblity": "None",
-            "DayOfWeekVisibility": -31608,
-            "IsVisibleToday": false
-        },
-        {
             "Id": -93100447264249808,
             "Text": "George (Poireau, Jonquille)",
             "IsBold": false,
@@ -480,19 +324,6 @@
             "FarmWeatherVisiblity": "All",
             "IslandWeatherVisiblity": "None",
             "DayOfWeekVisibility": -31608,
-            "IsVisibleToday": false
-        },
-        {
-            "Id": -93100098298157007,
-            "Text": "Anniversaire",
-            "IsBold": true,
-            "IsDone": false,
-            "IsHeader": true,
-            "IsRepeating": false,
-            "HideInOverlay": false,
-            "FarmWeatherVisiblity": "All",
-            "IslandWeatherVisiblity": "None",
-            "DayOfWeekVisibility": -59253,
             "IsVisibleToday": false
         },
         {
@@ -535,19 +366,6 @@
             "IsVisibleToday": false
         },
         {
-            "Id": -93097242815993803,
-            "Text": "Anniversaire",
-            "IsBold": true,
-            "IsDone": false,
-            "IsHeader": true,
-            "IsRepeating": false,
-            "HideInOverlay": false,
-            "FarmWeatherVisiblity": "All",
-            "IslandWeatherVisiblity": "None",
-            "DayOfWeekVisibility": -55159,
-            "IsVisibleToday": false
-        },
-        {
             "Id": -93096777801897930,
             "Text": "Sebastian (Larme gelée, Oeuf du vide, Quartz)",
             "IsBold": false,
@@ -574,19 +392,6 @@
             "IsVisibleToday": false
         },
         {
-            "Id": -93094755308509128,
-            "Text": "Anniversaire",
-            "IsBold": true,
-            "IsDone": false,
-            "IsHeader": true,
-            "IsRepeating": false,
-            "HideInOverlay": false,
-            "FarmWeatherVisiblity": "All",
-            "IslandWeatherVisiblity": "None",
-            "DayOfWeekVisibility": -46904,
-            "IsVisibleToday": false
-        },
-        {
             "Id": -93094444091152327,
             "Text": "Sorcier (Essence du vide, Essence Solaire, Minéraux, Quartz)",
             "IsBold": false,
@@ -610,19 +415,6 @@
             "FarmWeatherVisiblity": "All",
             "IslandWeatherVisiblity": "None",
             "DayOfWeekVisibility": -46912,
-            "IsVisibleToday": false
-        },
-        {
-            "Id": -93092462685165509,
-            "Text": "Anniversaire",
-            "IsBold": true,
-            "IsDone": false,
-            "IsHeader": true,
-            "IsRepeating": false,
-            "HideInOverlay": false,
-            "FarmWeatherVisiblity": "All",
-            "IslandWeatherVisiblity": "None",
-            "DayOfWeekVisibility": -30556,
             "IsVisibleToday": false
         },
         {
