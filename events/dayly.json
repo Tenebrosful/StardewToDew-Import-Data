@@ -3,7 +3,7 @@
     "Items": [
         {
             "Id": -93153266688169976,
-            "Text": "Évènements Journaliers",
+            "Text": "$ Évènements Journaliers $",
             "IsBold": true,
             "IsDone": false,
             "IsHeader": true,
@@ -11,8 +11,8 @@
             "HideInOverlay": false,
             "FarmWeatherVisiblity": "All",
             "IslandWeatherVisiblity": "None",
-            "DayOfWeekVisibility": -83,
-            "IsVisibleToday": false
+            "DayOfWeekVisibility": "All",
+            "IsVisibleToday": true
         },
         {
             "Id": -93149236247238645,
