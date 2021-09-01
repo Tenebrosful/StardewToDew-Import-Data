@@ -15,6 +15,32 @@
             "IsVisibleToday": true
         },
         {
+            "Id": -92954520245540040,
+            "Text": "Acheter la recette de Bac à fleurs à Pierre au festival",
+            "IsBold": true,
+            "IsDone": false,
+            "IsHeader": false,
+            "IsRepeating": false,
+            "HideInOverlay": false,
+            "FarmWeatherVisiblity": "All",
+            "IslandWeatherVisiblity": "None",
+            "DayOfWeekVisibility": -32376,
+            "IsVisibleToday": false
+        },
+        {
+            "Id": -92948974805226695,
+            "Text": "Acheter l'épouventail à Pierre au festival",
+            "IsBold": true,
+            "IsDone": false,
+            "IsHeader": false,
+            "IsRepeating": false,
+            "HideInOverlay": false,
+            "FarmWeatherVisiblity": "All",
+            "IslandWeatherVisiblity": "None",
+            "DayOfWeekVisibility": -32376,
+            "IsVisibleToday": false
+        },
+        {
             "Id": -93071286197917633,
             "Text": "Préparer la Fête Hawaïenne (dans 3 jours)",
             "IsBold": false,
@@ -38,6 +64,58 @@
             "FarmWeatherVisiblity": "All",
             "IslandWeatherVisiblity": "None",
             "DayOfWeekVisibility": -56128,
+            "IsVisibleToday": false
+        },
+        {
+            "Id": -92947308827677893,
+            "Text": "Acheter l'épouventail à Pierre au festival",
+            "IsBold": true,
+            "IsDone": false,
+            "IsHeader": false,
+            "IsRepeating": false,
+            "HideInOverlay": false,
+            "FarmWeatherVisiblity": "All",
+            "IslandWeatherVisiblity": "None",
+            "DayOfWeekVisibility": -47996,
+            "IsVisibleToday": false
+        },
+        {
+            "Id": -92936328374686916,
+            "Text": "Acheter le Fruit étoilé à Pierre au festival",
+            "IsBold": true,
+            "IsDone": false,
+            "IsHeader": false,
+            "IsRepeating": false,
+            "HideInOverlay": false,
+            "FarmWeatherVisiblity": "All",
+            "IslandWeatherVisiblity": "None",
+            "DayOfWeekVisibility": -47996,
+            "IsVisibleToday": false
+        },
+        {
+            "Id": -92956688985920713,
+            "Text": "Acheter la recette de Citrouille-lanterne à Pierre au festival",
+            "IsBold": true,
+            "IsDone": false,
+            "IsHeader": false,
+            "IsRepeating": false,
+            "HideInOverlay": false,
+            "FarmWeatherVisiblity": "All",
+            "IslandWeatherVisiblity": "None",
+            "DayOfWeekVisibility": -31552,
+            "IsVisibleToday": false
+        },
+        {
+            "Id": -92948098178913478,
+            "Text": "Acheter l'épouventail à Pierre au festival",
+            "IsBold": true,
+            "IsDone": false,
+            "IsHeader": false,
+            "IsRepeating": false,
+            "HideInOverlay": false,
+            "FarmWeatherVisiblity": "All",
+            "IslandWeatherVisiblity": "None",
+            "DayOfWeekVisibility": -31552,
             "IsVisibleToday": false
         },
         {
