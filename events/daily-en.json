@@ -1,0 +1,83 @@
+{
+    "DataFormatVersion": "1.1.0",
+    "Items": [
+        {
+            "Id": -93153266688169976,
+            "Text": "$ Daily Events $",
+            "IsBold": true,
+            "IsDone": false,
+            "IsHeader": true,
+            "IsRepeating": false,
+            "HideInOverlay": false,
+            "FarmWeatherVisiblity": "All",
+            "IslandWeatherVisiblity": "None",
+            "DayOfWeekVisibility": "All",
+            "IsVisibleToday": true
+        },
+        {
+            "Id": -93149236247238645,
+            "Text": "Traveling Cart (6h~20h)",
+            "IsBold": false,
+            "IsDone": false,
+            "IsHeader": false,
+            "IsRepeating": true,
+            "HideInOverlay": false,
+            "FarmWeatherVisiblity": "All",
+            "IslandWeatherVisiblity": "None",
+            "DayOfWeekVisibility": -95,
+            "IsVisibleToday": false
+        },
+        {
+            "Id": -93147797030541300,
+            "Text": "Iridium Sprinkler from Krobus (1000po)",
+            "IsBold": false,
+            "IsDone": false,
+            "IsHeader": false,
+            "IsRepeating": true,
+            "HideInOverlay": false,
+            "FarmWeatherVisiblity": "All",
+            "IslandWeatherVisiblity": "None",
+            "DayOfWeekVisibility": -96,
+            "IsVisibleToday": false
+        },
+        {
+            "Id": -93152244955715575,
+            "Text": "Omni Geode from Krobus (1000po)",
+            "IsBold": false,
+            "IsDone": false,
+            "IsHeader": false,
+            "IsRepeating": true,
+            "HideInOverlay": false,
+            "FarmWeatherVisiblity": "All",
+            "IslandWeatherVisiblity": "None",
+            "DayOfWeekVisibility": -124,
+            "IsVisibleToday": false
+        },
+        {
+            "Id": -93145827385382899,
+            "Text": "New cooking recipe from TV",
+            "IsBold": false,
+            "IsDone": false,
+            "IsHeader": false,
+            "IsRepeating": true,
+            "HideInOverlay": false,
+            "FarmWeatherVisiblity": "All",
+            "IslandWeatherVisiblity": "None",
+            "DayOfWeekVisibility": -127,
+            "IsVisibleToday": false
+        },
+        {
+            "Id": -93150611425302518,
+            "Text": "Cooking recipe from TV (Replay)",
+            "IsBold": false,
+            "IsDone": false,
+            "IsHeader": false,
+            "IsRepeating": true,
+            "HideInOverlay": false,
+            "FarmWeatherVisiblity": "All",
+            "IslandWeatherVisiblity": "None",
+            "DayOfWeekVisibility": -120,
+            "IsVisibleToday": false
+        }
+    ]
+}
